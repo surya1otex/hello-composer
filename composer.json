@@ -1,0 +1,8 @@
+{
+    "name": "surya/hello-composer",
+    "description": "a simple hello world composer package",
+    "type": "library",
+    "license": "mit",
+    "minimum-stability": "stable",
+    "require": {}
+}
